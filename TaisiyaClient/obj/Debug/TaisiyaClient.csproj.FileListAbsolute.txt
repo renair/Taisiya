@@ -1,0 +1,6 @@
+D:\Projects\Anabel\AnabelClient\bin\Debug\AnabelClient.exe.config
+D:\Projects\Anabel\AnabelClient\obj\Debug\AnabelClient.exe
+D:\Projects\Anabel\AnabelClient\obj\Debug\AnabelClient.pdb
+D:\Projects\Taisiya\TaisiyaClient\bin\Debug\AnabelClient.exe.config
+D:\Projects\Taisiya\TaisiyaClient\obj\Debug\AnabelClient.exe
+D:\Projects\Taisiya\TaisiyaClient\obj\Debug\AnabelClient.pdb

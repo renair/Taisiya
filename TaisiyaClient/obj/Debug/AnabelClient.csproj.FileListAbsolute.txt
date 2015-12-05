@@ -1,0 +1,9 @@
+D:\Projects\Anabel\AnabelClient\bin\Debug\AnabelClient.exe.config
+D:\Projects\Anabel\AnabelClient\bin\Debug\AnabelClient.exe
+D:\Projects\Anabel\AnabelClient\bin\Debug\AnabelClient.pdb
+D:\Projects\Anabel\AnabelClient\obj\Debug\AnabelClient.csprojResolveAssemblyReference.cache
+D:\Projects\Anabel\AnabelClient\obj\Debug\AnabelClient.MainForm.resources
+D:\Projects\Anabel\AnabelClient\obj\Debug\AnabelClient.Properties.Resources.resources
+D:\Projects\Anabel\AnabelClient\obj\Debug\AnabelClient.csproj.GenerateResource.Cache
+D:\Projects\Anabel\AnabelClient\obj\Debug\AnabelClient.exe
+D:\Projects\Anabel\AnabelClient\obj\Debug\AnabelClient.pdb

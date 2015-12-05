@@ -1,0 +1,6 @@
+D:\Projects\Anabel\Anabel\bin\Debug\Anabel.exe.config
+D:\Projects\Anabel\Anabel\bin\Debug\Anabel.exe
+D:\Projects\Anabel\Anabel\bin\Debug\Anabel.pdb
+D:\Projects\Anabel\Anabel\obj\Debug\Anabel.csprojResolveAssemblyReference.cache
+D:\Projects\Anabel\Anabel\obj\Debug\Anabel.exe
+D:\Projects\Anabel\Anabel\obj\Debug\Anabel.pdb
