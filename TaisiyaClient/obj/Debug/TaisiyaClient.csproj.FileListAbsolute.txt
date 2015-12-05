@@ -1,6 +1,12 @@
 D:\Projects\Anabel\AnabelClient\bin\Debug\AnabelClient.exe.config
 D:\Projects\Anabel\AnabelClient\obj\Debug\AnabelClient.exe
 D:\Projects\Anabel\AnabelClient\obj\Debug\AnabelClient.pdb
-D:\Projects\Taisiya\TaisiyaClient\bin\Debug\AnabelClient.exe.config
-D:\Projects\Taisiya\TaisiyaClient\obj\Debug\AnabelClient.exe
-D:\Projects\Taisiya\TaisiyaClient\obj\Debug\AnabelClient.pdb
+D:\Projects\Taisiya\TaisiyaClient\obj\Debug\TaisiyaClient.csprojResolveAssemblyReference.cache
+D:\Projects\Taisiya\TaisiyaClient\obj\Debug\TaisiyaClient.MainForm.resources
+D:\Projects\Taisiya\TaisiyaClient\obj\Debug\TaisiyaClient.csproj.GenerateResource.Cache
+D:\Projects\Taisiya\TaisiyaClient\bin\Debug\TaisiyaClient.exe.config
+D:\Projects\Taisiya\TaisiyaClient\obj\Debug\TaisiyaClient.Properties.Resources.resources
+D:\Projects\Taisiya\TaisiyaClient\bin\Debug\TaisiyaClient.exe
+D:\Projects\Taisiya\TaisiyaClient\bin\Debug\TaisiyaClient.pdb
+D:\Projects\Taisiya\TaisiyaClient\obj\Debug\TaisiyaClient.exe
+D:\Projects\Taisiya\TaisiyaClient\obj\Debug\TaisiyaClient.pdb

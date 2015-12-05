@@ -1,0 +1,9 @@
+D:\Projects\Taisiya\TaisiyaClient\bin\Release\TaisiyaClient.exe.config
+D:\Projects\Taisiya\TaisiyaClient\bin\Release\TaisiyaClient.exe
+D:\Projects\Taisiya\TaisiyaClient\bin\Release\TaisiyaClient.pdb
+D:\Projects\Taisiya\TaisiyaClient\obj\Release\TaisiyaClient.csprojResolveAssemblyReference.cache
+D:\Projects\Taisiya\TaisiyaClient\obj\Release\TaisiyaClient.MainForm.resources
+D:\Projects\Taisiya\TaisiyaClient\obj\Release\TaisiyaClient.Properties.Resources.resources
+D:\Projects\Taisiya\TaisiyaClient\obj\Release\TaisiyaClient.csproj.GenerateResource.Cache
+D:\Projects\Taisiya\TaisiyaClient\obj\Release\TaisiyaClient.exe
+D:\Projects\Taisiya\TaisiyaClient\obj\Release\TaisiyaClient.pdb

@@ -1,6 +1,9 @@
 D:\Projects\Anabel\Anabel\bin\Debug\Anabel.exe.config
 D:\Projects\Anabel\Anabel\obj\Debug\Anabel.exe
 D:\Projects\Anabel\Anabel\obj\Debug\Anabel.pdb
-D:\Projects\Taisiya\Taisiya\bin\Debug\Anabel.exe.config
-D:\Projects\Taisiya\Taisiya\obj\Debug\Anabel.exe
-D:\Projects\Taisiya\Taisiya\obj\Debug\Anabel.pdb
+D:\Projects\Taisiya\Taisiya\obj\Debug\Taiasiya.csprojResolveAssemblyReference.cache
+D:\Projects\Taisiya\Taisiya\bin\Debug\Taisiya.exe.config
+D:\Projects\Taisiya\Taisiya\bin\Debug\Taisiya.exe
+D:\Projects\Taisiya\Taisiya\bin\Debug\Taisiya.pdb
+D:\Projects\Taisiya\Taisiya\obj\Debug\Taisiya.exe
+D:\Projects\Taisiya\Taisiya\obj\Debug\Taisiya.pdb

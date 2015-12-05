@@ -1,0 +1,5 @@
+D:\Projects\Taisiya\Taisiya\bin\Release\Taisiya.exe.config
+D:\Projects\Taisiya\Taisiya\bin\Release\Taisiya.exe
+D:\Projects\Taisiya\Taisiya\bin\Release\Taisiya.pdb
+D:\Projects\Taisiya\Taisiya\obj\Release\Taisiya.exe
+D:\Projects\Taisiya\Taisiya\obj\Release\Taisiya.pdb
